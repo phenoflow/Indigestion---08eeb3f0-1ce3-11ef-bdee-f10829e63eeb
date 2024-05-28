@@ -1,0 +1,129 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/indigestion-dnausea---primary.py
+inputModule3:
+  class: File
+  path: python/indigestion-oesophagitis---primary.py
+inputModule4:
+  class: File
+  path: python/indigestion-dheartburn---primary.py
+inputModule5:
+  class: File
+  path: python/indigestion-eructation---primary.py
+inputModule6:
+  class: File
+  path: python/indigestion-blood---primary.py
+inputModule7:
+  class: File
+  path: python/indigestion-dbowel---primary.py
+inputModule8:
+  class: File
+  path: python/indigestion-function---primary.py
+inputModule9:
+  class: File
+  path: python/oesophageal-indigestion---primary.py
+inputModule10:
+  class: File
+  path: python/indigestion-rumination---primary.py
+inputModule11:
+  class: File
+  path: python/indigestion---primary.py
+inputModule12:
+  class: File
+  path: python/indigestion-vomiting---primary.py
+inputModule13:
+  class: File
+  path: python/indigestion-reflux---primary.py
+inputModule14:
+  class: File
+  path: python/indigestion-induced---primary.py
+inputModule15:
+  class: File
+  path: python/gastric-indigestion---primary.py
+inputModule16:
+  class: File
+  path: python/indigestion-wind---primary.py
+inputModule17:
+  class: File
+  path: python/indigestion-waterbrash---primary.py
+inputModule18:
+  class: File
+  path: python/indigestion-dflatulence---primary.py
+inputModule19:
+  class: File
+  path: python/indigestion-belching---primary.py
+inputModule20:
+  class: File
+  path: python/indigestion-hyperchlorhydria---primary.py
+inputModule21:
+  class: File
+  path: python/indigestion-flatulence---primary.py
+inputModule22:
+  class: File
+  path: python/indigestion-feels---primary.py
+inputModule23:
+  class: File
+  path: python/indigestion-[d]retching---primary.py
+inputModule24:
+  class: File
+  path: python/indigestion-diarrhoea---primary.py
+inputModule25:
+  class: File
+  path: python/indigestion-emesis---primary.py
+inputModule26:
+  class: File
+  path: python/indigestion-distension---primary.py
+inputModule27:
+  class: File
+  path: python/indigestion-regurgitation---primary.py
+inputModule28:
+  class: File
+  path: python/indigestion-ddysphagia---primary.py
+inputModule29:
+  class: File
+  path: python/excessive-indigestion---primary.py
+inputModule30:
+  class: File
+  path: python/upset-indigestion---primary.py
+inputModule31:
+  class: File
+  path: python/persistent-indigestion---primary.py
+inputModule32:
+  class: File
+  path: python/indigestion-dyspepsia---primary.py
+inputModule33:
+  class: File
+  path: python/gastrooesophageal-indigestion---primary.py
+inputModule34:
+  class: File
+  path: python/indigestion-retching---primary.py
+inputModule35:
+  class: File
+  path: python/indigestion-stomach---primary.py
+inputModule36:
+  class: File
+  path: python/indigestion-[d]bloating---primary.py
+inputModule37:
+  class: File
+  path: python/indigestion-[d]pyrosis---primary.py
+inputModule38:
+  class: File
+  path: python/indigestion-throwing---primary.py
+inputModule39:
+  class: File
+  path: python/indigestion-bloating---primary.py
+inputModule40:
+  class: File
+  path: python/indigestion-[d]wind---primary.py
+inputModule41:
+  class: File
+  path: python/indigestion-[d]tympanites---primary.py
+inputModule42:
+  class: File
+  path: python/indigestion-hyperacidity---primary.py
+inputModule43:
+  class: File
+  path: python/output-cases.py
